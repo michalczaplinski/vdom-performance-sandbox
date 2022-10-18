@@ -15,7 +15,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node generate-html.mjs && node index.js"
+    "start": "node generate-html.js && node index.js"
   },
   "author": "Michal Czaplinski",
   "license": "ISC"
