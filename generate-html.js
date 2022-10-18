@@ -35,4 +35,4 @@ const end = `
 
 html += end;
 
-writeFileSync("test.html", html);
+writeFileSync("test.html", format(html, { parser: "html" }));
