@@ -1,0 +1,22 @@
+{
+  "name": "vdom-performance-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "preact": "^10.11.2",
+    "prettier": "^2.7.1",
+    "puppeteer": "^19.0.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.15.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node generate-html.mjs && node index.js"
+  },
+  "author": "Michal Czaplinski",
+  "license": "ISC"
+}
