@@ -1,0 +1,863 @@
+{
+  "https://www.wordpress.com": [
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"lpc-header-nav-container\">\n\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"masterb"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"lpc-header-nav-container\">\n\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"masterb"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"lpc-header-nav-container\">\n\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"masterb"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"lpc-header-nav-container\">\n\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"masterb"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"lpc-header-nav-container\">\n\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"masterb"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n\n\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"lpc-header-nav-container\">\n\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"masterb"
+    },
+    {
+      "nodeName": "BODY",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n\n\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<body id=\"wpcom-home\" class=\"page-root en page-template page-template-"
+    },
+    {
+      "nodeName": "BODY",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n\n\t\t",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\n\t\n\n",
+        "nodeName": "#text"
+      },
+      "node": "<body id=\"wpcom-home\" class=\"page-root en page-template page-template-"
+    }
+  ],
+  "https://www.whitehouse.gov": [
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"site-header__item site-header__main-logo\">\n\t\t\t\t<a class=\"s",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"row site-header__row justify-content-between align-items-s"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<nav class=\"col-xs-12 col-md-6\" aria-label=\"Social Navigation\">\n\t\t\t\t\t\t",
+        "nodeName": "NAV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"site-header__menu-wrap__footer__social\">\n\t\t\t\t\t\t<nav class="
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"site-header__menu-wrap\">\n\t\t\t\t<nav class=\"col primary-menu ",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\n\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"row site-header__row justify-content-between align-items-s"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"mobile-menu-toggle\">\n\t\t\t\t<button class=\"mobile-menu-toggle",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"row site-header__row justify-content-between align-items-s"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<nav class=\"primary-mobile-menu\" aria-label=\"Primary Navigation\" role=",
+        "nodeName": "NAV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t\t\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"menu-left\">\n\n\t\t\t\t\t\t\t\t\t\t\t\t<nav class=\"primary-mobile-menu\" "
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<nav class=\"secondary-mobile-menu\" aria-label=\"Secondary Navigation\" r",
+        "nodeName": "NAV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"menu-right\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<nav class=\"secondary-mobile-men"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<nav class=\"col-xs-12\" aria-label=\"Social Navigation\">\n\t\t\t\t\t\t\t\t\t<ul id",
+        "nodeName": "NAV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"site-header__menu-wrap__footer__social\">\n\t\t\t\t\t\t\t\t<nav clas"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"mobile-nav-menus\">\n\t\t\t\t\t<div class=\"menu-left\">\n\n\t\t\t\t\t\t\t\t\t",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"row\">\n\t\t\t\t<div class=\"mobile-nav-menus\">\n\t\t\t\t\t<div class=\""
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"row\">\n\t\t\t\t<div class=\"mobile-nav-menus\">\n\t\t\t\t\t<div class=\"",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"container\">\n\t\t\t<div class=\"row\">\n\t\t\t\t<div class=\"mobile-na"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"container\">\n\t\t\t<div class=\"row\">\n\t\t\t\t<div class=\"mobile-na",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"mobile-overlay__inner\">\n\t\t<div class=\"container\">\n\t\t\t<div "
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"mobile-overlay__inner\">\n\t\t<div class=\"container\">\n\t\t\t<div ",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"mobile-overlay mobile-nav-overlay\" role=\"dialog\" aria-moda"
+    },
+    {
+      "nodeName": "HEADER",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"mobile-overlay mobile-nav-overlay\" role=\"dialog\" aria-moda",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\n",
+        "nodeName": "#text"
+      },
+      "node": "<header id=\"masthead\" data-js-social-hide=\"\" class=\"site-header sticky"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"home-topper__content\" data-beat=\"1\" data-beat-home=\"1\">\n\n\t",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\n\t\t\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"row\">\n\t\t\t\t<div class=\"home-topper__content\" data-beat=\"1\" "
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"row\">\n\t\t\t\t<div class=\"home-topper__content\" data-beat=\"1\" ",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"container home-topper__main\">\n\t\t\t<div class=\"row\">\n\t\t\t\t<di"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"container home-topper__main\">\n\t\t\t<div class=\"row\">\n\t\t\t\t<di",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\n\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"home-topper\">\n\n\t\t<div class=\"container home-topper__main\">"
+    },
+    {
+      "nodeName": "ARTICLE",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"news-item__media\">\n\t\t\t\t\t<div class=\"img-wrapper responsive",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\n\t",
+        "nodeName": "#text"
+      },
+      "node": "<article class=\"news-item qpost-63476\">\n\t<div class=\"news-item__media\""
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"row\">\n\t\t\t<div class=\"col-xs-12 col-md-6 col-lg-4 one-featu",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"container\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"col-xs-12 c"
+    },
+    {
+      "nodeName": "SECTION",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"container\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"col-xs-12 c",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n",
+        "nodeName": "#text"
+      },
+      "node": "<section data-module=\"\" class=\"home__featured-news\">\n\t<div class=\"cont"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"media-col col col-lg-5 col-xs-12\">\n\t\t\t\t\t\t\t\t\t<img width=\"76",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"row\">\n\t\t\t<div class=\"media-col col col-lg-5 col-xs-12\">\n\t\t"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"content-col col col-lg-7 col-xs-12\">\n\t\t\t\t<p class=\"eyebrow",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"row\">\n\t\t\t<div class=\"media-col col col-lg-5 col-xs-12\">\n\t\t"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"row\">\n\t\t\t<div class=\"media-col col col-lg-5 col-xs-12\">\n\t\t",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"wrapper\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"media-col col"
+    },
+    {
+      "nodeName": "SECTION",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"wrapper\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"media-col col",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n",
+        "nodeName": "#text"
+      },
+      "node": "<section data-module=\"\" class=\"module module__featured-media-and-conte"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"media-col col col-lg-5 col-xs-12\">\n\t\t\t\t\t\t\t\t\t<img width=\"11",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"row\">\n\t\t\t<div class=\"media-col col col-lg-5 col-xs-12\">\n\t\t"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"content-col col col-lg-7 col-xs-12\">\n\t\t\t\t<p class=\"eyebrow",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"row\">\n\t\t\t<div class=\"media-col col col-lg-5 col-xs-12\">\n\t\t"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"row\">\n\t\t\t<div class=\"media-col col col-lg-5 col-xs-12\">\n\t\t",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"wrapper\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"media-col col"
+    },
+    {
+      "nodeName": "SECTION",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"wrapper\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"media-col col",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n",
+        "nodeName": "#text"
+      },
+      "node": "<section data-module=\"\" class=\"module module__featured-media-and-conte"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"image-wrapper\"><img width=\"2360\" height=\"1129\" src=\"https:",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "<div class=\"overlay\"></div>",
+        "nodeName": "DIV"
+      },
+      "node": "<div class=\"wrapper\">\n\t\t\t\t<div class=\"image-wrapper\"><img width=\"2360\""
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"row justify-content-center\">\n\t\t\t<div class=\"wrapper\">\n\t\t\t\t",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t"
+    },
+    {
+      "nodeName": "SECTION",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n",
+        "nodeName": "#text"
+      },
+      "node": "<section data-module=\"\" class=\"module__full-width-featured-content\">\n\t"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"image-wrapper\"><img width=\"1919\" height=\"1280\" src=\"https:",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "<div class=\"overlay\"></div>",
+        "nodeName": "DIV"
+      },
+      "node": "<div class=\"wrapper\">\n\t\t\t\t<div class=\"image-wrapper\"><img width=\"1919\""
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"row justify-content-center\">\n\t\t\t<div class=\"wrapper\">\n\t\t\t\t",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t"
+    },
+    {
+      "nodeName": "SECTION",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"container\">\n\t\t<div class=\"row justify-content-center\">\n\t\t\t",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n",
+        "nodeName": "#text"
+      },
+      "node": "<section data-module=\"\" class=\"module__full-width-featured-content las"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\">\n\t\t"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<main id=\"content\" class=\"site-main\">\n\n<section class=\"homepage-conten",
+        "nodeName": "MAIN"
+      },
+      "nextSibling": {
+        "node": "\n\n\t",
+        "nodeName": "#text"
+      },
+      "node": "<div id=\"page\" class=\"site-wrap\">\n\n\t<header id=\"masthead\" data-js-soci"
+    },
+    {
+      "nodeName": "SECTION",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<nav class=\"primary col col-xs-12 col-md-12 col-lg-10\" aria-label=\"Pri",
+        "nodeName": "NAV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<section id=\"primary-footer-menu-section\" class=\"justify-content-cente"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<section id=\"primary-footer-menu-section\" class=\"justify-content-cente",
+        "nodeName": "SECTION"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t\t\n\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"footer-wrapper\">\n\t\t\t\t\t\t\t\t\t\t<section id=\"primary-footer-men"
+    },
+    {
+      "nodeName": "SECTION",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<nav class=\"footer-secondary col-xs-12 col-md-12 col-lg-10\" aria-label",
+        "nodeName": "NAV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<section class=\"justify-content-center footer-navigation-section secon"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<nav class=\"col-xs-12\" aria-label=\"Social Navigation\">\n\t\t\t\t\t\t\t\t\t\t<ul i",
+        "nodeName": "NAV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"footer__social\">\n\t\t\t\t\t\t\t\t\t<nav class=\"col-xs-12\" aria-labe"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"footer__social\">\n\t\t\t\t\t\t\t\t\t<nav class=\"col-xs-12\" aria-labe",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"social-and-address\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"footer__so"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<p class=\"address\">\n\t\t\t\t\t\t\t\t<strong>The White House</strong><br>\n\t\t\t\t\t",
+        "nodeName": "P"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"social-and-address\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"footer__so"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"footer-right\">\n\t\t\t\t\t\t\t\t\t\t\t\t<section class=\"justify-content",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"footer-wrapper\">\n\t\t\t\t\t\t\t\t\t\t<section id=\"primary-footer-men"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"footer-wrapper\">\n\t\t\t\t\t\t\t\t\t\t<section id=\"primary-footer-men",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"row\">\n\t\t\t\t<div class=\"footer-wrapper\">\n\t\t\t\t\t\t\t\t\t\t<section "
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"row\">\n\t\t\t\t<div class=\"footer-wrapper\">\n\t\t\t\t\t\t\t\t\t\t<section ",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t\t",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"container\">\n\t\t\t<div class=\"row\">\n\t\t\t\t<div class=\"footer-wr"
+    },
+    {
+      "nodeName": "FOOTER",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div class=\"container\">\n\t\t\t<div class=\"row\">\n\t\t\t\t<div class=\"footer-wr",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n\t",
+        "nodeName": "#text"
+      },
+      "node": "<footer id=\"colophon\" data-js-social-hide=\"\" class=\"social-hide site-f"
+    },
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<footer id=\"colophon\" data-js-social-hide=\"\" class=\"social-hide site-f",
+        "nodeName": "FOOTER"
+      },
+      "nextSibling": {
+        "node": "\n",
+        "nodeName": "#text"
+      },
+      "node": "<div id=\"page\" class=\"site-wrap\">\n\n\t<header id=\"masthead\" data-js-soci"
+    },
+    {
+      "nodeName": "BODY",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "<div id=\"page\" class=\"site-wrap\">\n\n\t<header id=\"masthead\" data-js-soci",
+        "nodeName": "DIV"
+      },
+      "nextSibling": {
+        "node": "\n",
+        "nodeName": "#text"
+      },
+      "node": "<body class=\"home page-template-default page page-id-619 wp-embed-resp"
+    }
+  ],
+  "https://www.nytimes.com": [
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n\n",
+        "nodeName": "#text"
+      },
+      "node": "<div class=\"css-17ih8de interactive-body\" data-sourceid=\"1000000084125"
+    },
+    {
+      "nodeName": "BODY",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": "\n    \n    \n    ",
+        "nodeName": "#text"
+      },
+      "nextSibling": {
+        "node": "\n  \n",
+        "nodeName": "#text"
+      },
+      "node": "<body><iframe src=\"https://static01.nyt.com/ads/tpc-check.html\" id=\"3p"
+    }
+  ],
+  "https://www.usatoday.com": [
+    {
+      "nodeName": "DIV",
+      "mutationType": "childList",
+      "addedNodes": [],
+      "removedNodes": [],
+      "previousSibling": {
+        "node": null
+      },
+      "nextSibling": {
+        "node": null
+      },
+      "node": "<div class=\"gnt_m gnt_m_if\" style=\"padding-bottom:165px\" data-g-r=\"laz"
+    }
+  ]
+}

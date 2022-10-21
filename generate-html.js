@@ -24,8 +24,8 @@ let html = `
   </head>
   <body>`;
 
-for (let i = 0; i < 1000; i++) {
-  html += createDivs(10);
+for (let i = 0; i < 10; i++) {
+  html += createDivs(5);
 }
 
 const end = `
